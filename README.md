@@ -6,13 +6,13 @@
     CookieHub is a universal script that allows you to use a variety of different scripts found in CookieHub.
     <br/>
     <br/>
-    <a href="https://github.com/RamaTheDL/CookieHub/issues">Report a Bug</a>
+    <a href="https://github.com/Aviiela/CookieHub/issues">Report a Bug</a>
     |
-    <a href="https://github.com/RamaTheDL/CookieHub/issues">Request a Feature</a>
+    <a href="https://github.com/Aviiela/CookieHub/issues">Request a Feature</a>
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/RamaTheDL/CookieHub?color=dark-green) ![Forks](https://img.shields.io/github/forks/RamaTheDL/CookieHub?style=social) ![Stargazers](https://img.shields.io/github/stars/RamaTheDL/CookieHub?style=social) ![Issues](https://img.shields.io/github/issues/RamaTheDL/CookieHub)
+![Contributors](https://img.shields.io/github/contributors/Aviiela/CookieHub?color=dark-green) ![Forks](https://img.shields.io/github/forks/Aviiela/CookieHub?style=social) ![Stargazers](https://img.shields.io/github/stars/Aviiela/CookieHub?style=social) ![Issues](https://img.shields.io/github/issues/Aviiela/CookieHub)
 
 ## Highlight
 
@@ -44,6 +44,6 @@ Or any executors that support the following functions:
 ## Features (WIP)
 
 ## Contributors
-* **[RamaTheDL](https://github.com/RamaTheDL)**, Creator/Owner.
-* **LiamIsMyName**, Tester, reporting bugs, and giving me some solutions.
-* **ChineseGuyFromOhio**, Making the Code.
+* **[Aviiela](https://github.com/Aviiela)**, Creator/Owner.
+* **LiamIsMyName & ChineseGuyFromOhio**, Tester, reporting bugs, and giving me some solutions.
+* **Vyinixx**, Making the Code.
